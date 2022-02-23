@@ -1,0 +1,127 @@
+{
+  "contractName": "SimpleNFTCustodian",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.11+commit.d7f03943\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/SimpleNFTCustodian.sol\":\"SimpleNFTCustodian\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/SimpleNFTCustodian.sol\":{\"keccak256\":\"0x843645d51da2d64283d041ab44d206588456673aac500b84459e44a55ecd57cf\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://4a94dd34a9fd52ab988dc6c5dcd8913225656c9b9297dc6d4b3c60891ac2f077\",\"dweb:/ipfs/QmaxM3UmQqA7yz1MD256RsBbDQz4TXFddXPt1fmthmUpvX\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220717d71ce545857c47a0b39b0804eb2b22c2134d559594614937c6073dc46343764736f6c634300080b0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220717d71ce545857c47a0b39b0804eb2b22c2134d559594614937c6073dc46343764736f6c634300080b0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "57:31:2:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "57:31:2:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.9;\n\ncontract SimpleNFTCustodian {\n}\n",
+  "sourcePath": "/home/srinivas/simple-nft/contracts/SimpleNFTCustodian.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/SimpleNFTCustodian.sol",
+    "exportedSymbols": {
+      "SimpleNFTCustodian": [
+        42
+      ]
+    },
+    "id": 43,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 41,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".9"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:23:2"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "SimpleNFTCustodian",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 42,
+        "linearizedBaseContracts": [
+          42
+        ],
+        "name": "SimpleNFTCustodian",
+        "nameLocation": "66:18:2",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 43,
+        "src": "57:31:2",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:57:2"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/SimpleNFTCustodian.sol",
+    "exportedSymbols": {
+      "SimpleNFTCustodian": [
+        42
+      ]
+    },
+    "id": 43,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 41,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".9"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:23:2"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "SimpleNFTCustodian",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 42,
+        "linearizedBaseContracts": [
+          42
+        ],
+        "name": "SimpleNFTCustodian",
+        "nameLocation": "66:18:2",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 43,
+        "src": "57:31:2",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:57:2"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.11+commit.d7f03943.Emscripten.clang"
+  },
+  "networks": {
+    "3": {
+      "events": {},
+      "links": {},
+      "address": "0x90F6FcC58203025D1fF5779Be6202427B5a1b817",
+      "transactionHash": "0xcef4c759e34a7b570650a1e97bd3196a47d9e63d88ccaddd6949a005b6bc0579"
+    }
+  },
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2022-01-14T15:30:27.581Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
